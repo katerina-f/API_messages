@@ -1,0 +1,13 @@
+env/
+.vscode
+.DS_Store*
+.idea/
+__pycache__
+db.sqlite3
+*.pyc
+celerybeat-schedule
+.env.prod
+.env.dev
+.env
+.pytest_cache
+.mypy_cache
